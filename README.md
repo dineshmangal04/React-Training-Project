@@ -10,7 +10,7 @@
 
 To start with repository,
 
-> git clone https://github.com/nodesense/react-workshop
+> git clone https://github.com/dineshmangal04/React-Training-Project
 
 > cd react-workshop
 
